@@ -1,0 +1,2 @@
+Original source shapefiles retrieved from [http://nationalatlas.gov/](http://nationalatlas.gov/).
+Updated source can be found at [data.gov](https://catalog.data.gov/dataset/national-atlas-of-the-united-states).
