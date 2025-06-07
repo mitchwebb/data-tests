@@ -1,3 +1,6 @@
 *.csv
 *.txt
 *.zip
+
+./data/Taxon.tsv
+./data/VerncularName.tsv
